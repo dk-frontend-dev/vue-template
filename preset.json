@@ -1,0 +1,29 @@
+{
+  "useConfigFiles": true,
+  "router": true,
+  "routerHistoryMode": true,
+  "vuex": true,
+  "cssPreprocessor": "sass",
+  "plugins": {
+    "@vue/cli-plugin-babel": {},
+    "@vue/cli-plugin-eslint": {
+      "lintOn": [
+        "save",
+        "commit"
+      ]
+    },
+    "vue-cli-plugin-editorconfig": {},
+    "eslint-friendly-formatter": {},
+    "eslint-config-prettier": {},
+    "eslint-plugin-prettier": {},
+    "eslint-plugin-prettier-vue": {},
+    "prettier": {},
+    "stylelint": {},
+    "stylelint-order": {},
+    "stylelint-config-standard-scss": {},
+    "stylelint-config-rational-order": {},
+    "stylelint-scss": {}
+  },
+  "configs": {
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "vue-cli-plugin-devup",
+  "version": "0.0.1",
+  "description": "Develup vue-cli template",
+  "main": "index.js",
+  "dependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
